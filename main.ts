@@ -142,3 +142,5 @@ function ו () {
         . . # . .
         `)
 }
+basic.showString("5+7")
+basic.showNumber(5 + 7)
